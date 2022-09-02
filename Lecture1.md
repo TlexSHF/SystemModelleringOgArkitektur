@@ -25,7 +25,8 @@ Manipulating data. Extracting functionalities.
 _Bundling_ - "puts multiple different items together into one"
 Protecting and hiding data
 Wrapping data and methods within one unit
-
+Hide attributes
+Name mangling (python)
 
 Types of Encapsulation:
   **- Public
@@ -41,11 +42,19 @@ Why use it:
 
 ## Abstraction
 
-Abstraction is...
+Enables the user to use code without knowing everything beneath the code.
+An example: GUI
+
+Prevents code repetition
+Improves flexibility
+Working in large teams
+Data Abstraction
 
 ## Inheritance
 
-Inheritance is...
+Modular codebase.
+Key advantage: Changing one piece in the parent class, changes what happens in all subclasses.
+Concrete vs Abstract methods
 
 ## Polymorphism
 
